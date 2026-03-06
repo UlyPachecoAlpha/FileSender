@@ -1,0 +1,15 @@
+{
+  "name": "File Sender Marketplace",
+  "owner": {
+    "name": "UlyPachecoAlpha"
+  },
+  "plugins": [
+    {
+      "name": "FileSender",
+      "source": "./plugins/filesender",
+      "description": "Send files to Power Automate via API.",
+      "version": "1.0.0",
+      "category": "I.T."
+    }
+  ]
+}
