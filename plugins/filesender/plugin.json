@@ -1,8 +1,0 @@
-{
-  "name": "power-automate-file-sender",
-  "version": "1.0.0",
-  "description": "Send files to a Power Automate flow via HTTP trigger. Reads a file, base64-encodes it, and POSTs it to your flow endpoint with metadata.",
-  "author": {
-    "name": "Custom"
-  }
-}
